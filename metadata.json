@@ -1,0 +1,6 @@
+{
+  "name": "简历与职位需求智能匹配实验室",
+  "description": "基于代数建模、TF-IDF 向量空间、稠密语义 Embeddings 与大模型诊断的简历与职位需求智能匹配度打分器",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
